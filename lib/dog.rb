@@ -9,7 +9,7 @@ class Dog
   #This method is responsible for reporting or reading the name. 
   
   def name 
-    @this_dogs_name #Placing the @ sign infront of the 
+    @this_dogs_name #Placing the @ sign infront of the variable  
   end 
 end
 
